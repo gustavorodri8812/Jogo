@@ -1,0 +1,46 @@
+{
+  "rodada": {
+    "duracaoMinSeg": 60,
+    "duracaoMaxSeg": 90,
+    "alvoDesenho": 0.85,
+    "anuncioMs": 1500,
+    "revelarMs": 1400,
+    "revelacaoMs": 3800,
+    "top5Ms": 4200,
+    "apagarMs": 1100
+  },
+  "pontos": {
+    "acerto": [
+      100,
+      75,
+      60,
+      50,
+      40
+    ],
+    "quente": 15,
+    "maxQuentes": 5
+  },
+  "ranking": {
+    "atualizarCadaRodadas": 10,
+    "mostrar": 5
+  },
+  "respostas": {
+    "maxPalavras": 3
+  },
+  "presentes": {
+    "pontosPorMoeda": 1,
+    "tetoBonus": 150,
+    "pequeno": {
+      "rodadas": 1
+    },
+    "medio": {
+      "moedas": 10,
+      "rodadas": 3
+    },
+    "grande": {
+      "moedas": 100,
+      "rodadas": 5
+    },
+    "metaRosas": 30
+  }
+}
